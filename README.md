@@ -1,5 +1,5 @@
 # PaymentGateway
-Payment gatewat integration to a HTML page with the help of Razorpay.
+Payment gateway integration to a HTML page with the help of Razorpay.
 
 The webpage is a simple webpage conatining a "DONATE" button.
 
