@@ -1,0 +1,89 @@
+.navigation ul{
+	margin: 0 ;
+	padding: 0;
+	list-style: none;
+	height: 36px;
+	line-height: 36px;
+	background-color: #000;
+font-family: 'Roboto', sans-serif;
+}
+
+.navigation li{
+	float: left;
+	border-right: 1px solid white;
+}
+
+.navigation a{
+	display: block;
+	padding: 0 28px ;
+	color: #00fe00;
+	text-decoration: none;
+	transition-duration: 0.5s;
+	
+}
+
+.navigation a:hover{	
+	color: black;
+	background-color: #00fe00;
+}
+
+.active a{
+	color: black;
+	background-color: #00fe00;
+}
+#logo{
+	font-family: 'Lobster', cursive;
+	display: block;
+	padding: 0 28px ;
+	color: white;
+	text-decoration: none;
+	transition-duration: 0.5s;
+}
+
+body{
+	background-image: url('img.webp');
+	background-size: 100% 100%;
+}
+
+
+.button1{
+	font-family: 'Karantina', cursive;
+	padding: 20px 30px;
+	font-size: 25px;
+	border-radius: 5px;
+	transition-duration: 0.5s;
+	background-color: white;
+	color: black;
+	
+}
+
+.button1:hover{
+	background-color: #00fe00;
+	
+}
+
+.button2{
+	font-family: 'Karantina', cursive;
+	padding: 20px 30px;
+	font-size: 25px;
+	border-radius: 5px;
+	transition-duration: 0.5s;
+	background-color: white;
+	color: black;
+}
+
+.button2:hover{
+	background-color: #00fe00;
+	
+}
+
+.content h1{
+	font-size: 60px;
+	font-family: 'Lobster', cursive;
+}
+
+.content h3{
+	font-size: 30px;
+	font-family: 'Lobster', cursive;
+}
+
